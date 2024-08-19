@@ -9,8 +9,8 @@ Toplamda 2 farklı projenin geliştirilmesinde yardımcı oldum. Bunların dış
 ## List Projesi
 <div class='container'>
 <div class='row'>
-  <img src='https://raw.githubusercontent.com/Developrimbor/Software-Intership/main/List.png' alt='List Project' height='475'>
-  <img src='https://raw.githubusercontent.com/Developrimbor/Software-Intership/main/List2.jpg' alt='List Project' height='475'>
+  <img src='https://raw.githubusercontent.com/Developrimbor/Software-Intership/main/List.png' alt='List Project' height='400'>
+  <img src='https://raw.githubusercontent.com/Developrimbor/Software-Intership/main/List2.jpg' alt='List Project' height='400'>
 </div>
 </div>
 
