@@ -1,6 +1,6 @@
-# STAJ 1.1
+# STAJ 1.3
 
-Date: July 22, 2024
+Date: July 24, 2024
 
 - Kodda birçok düzenleme yapıldı.
 - Özellikle Fetch yapısı içerisinde bulunan fonksiyonları ve değişkenleri bu yapının dışına aktardık.
