@@ -1,6 +1,6 @@
 # STAJ 0.2
 
-Date: July 17, 2024
+Date: July 23, 2024
 
 - Stajımı yapmakta olduğum Dev Secure şirketinde geliştirilen projelerde JS, PHP dilleri hakim. Bu nedenle kendimi bu dillerde geliştirmek için youtube, patikaDev, udemy gibi platformlar üzerinden kendimi geliştirmeye çalışıyorum.
 - Geliştirilmiş proje üzerinde anlatım yapılırken bir bug keşfettik ve Seyfettin Bey benden bu bug’u halletmemi istedi.
