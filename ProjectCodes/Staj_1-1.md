@@ -1,6 +1,6 @@
 # STAJ 0.1
 
-Date: July 16, 2024
+Date: July 22, 2024
 
 - Powertoys Advanced Paste araştırması yapıldı.
 - API key ile ilgili aldığım bir hatayı araştırdım ve nedenni öğrendim
