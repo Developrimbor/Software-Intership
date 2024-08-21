@@ -1,6 +1,6 @@
-# STAJ 1.2
+# STAJ 1.4
 
-Date: July 23, 2024
+Date: July 25, 2024
 
 - [x]  Bağlantıların solundaki numaralardan sonra nokta eklendi
 - [x]  “*” a basıldığında çıkan bağlantılardan bazıları ekrana tam sığmıyordu bunun için bağalntının üzerine gelindiğinde metnin font-size ı küçültüldü.
