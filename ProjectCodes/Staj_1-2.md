@@ -1,4 +1,4 @@
-# STAJ 0.2
+# STAJ 1.2
 
 Date: July 23, 2024
 
