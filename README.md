@@ -1,4 +1,4 @@
-# Software-Intership
+# Software Intership - Dev Secure Bilişim Teknolojileri A.Ş.
 
 22 Temmuz 2024 - 16 Ağustos 2024 tarihleri arasında yapmış olduğum yazılım stajı boyunca şirketin mevcut projelerini geliştirmek için yeni eklediğim veya da var olan kodları düzenlediğim, bulduğum bugların analizini yapıp algoritmalarla çözüme nasıl ulaştığımı anlattığım bir repo.
 
