@@ -1,4 +1,4 @@
-# STAJ 4.5
+# STAJ 4.5 (YAZILIM STAJI SON GÜN)
 
 Date: August 16, 2024
 
